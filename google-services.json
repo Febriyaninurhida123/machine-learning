@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "313480059389",
+    "firebase_url": "https://kasrt-7be5e-default-rtdb.firebaseio.com",
+    "project_id": "kasrt-7be5e",
+    "storage_bucket": "kasrt-7be5e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:313480059389:android:5260b08f36404c8c702194",
+        "android_client_info": {
+          "package_name": "com.example.kasrt"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdEhCc_G3vYDLZit2Zr0twmPaYq7qhGAw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:313480059389:android:a5815eafdd1abffd702194",
+        "android_client_info": {
+          "package_name": "com.example.rtku"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdEhCc_G3vYDLZit2Zr0twmPaYq7qhGAw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:313480059389:android:db9791090eabf67c702194",
+        "android_client_info": {
+          "package_name": "com.example.smart"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdEhCc_G3vYDLZit2Zr0twmPaYq7qhGAw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
